@@ -18,7 +18,7 @@ apt install bash
 git clone https://github.com/elqnas-daymon-x1/demon.git
 
 
-cd D-Phishing
+cd demon
 
 ls
 
